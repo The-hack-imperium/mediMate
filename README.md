@@ -4,7 +4,7 @@
   <img width="350" alt="image" src="https://github.com/user-attachments/assets/98653ea2-cff2-4015-9158-dfcaaf46f031" />
 </div>
 
-###Miffy is an AI-powered medical assistant that helps users check symptoms, get guidance, and navigate their health journey through a friendly chatbot interface.
+### Miffy is an AI-powered medical assistant that helps users check symptoms, get guidance, and navigate their health journey through a friendly chatbot interface.
 ---
 ## Features
 - **AI-powered Chatbot for Symptom Checking**  
@@ -90,6 +90,7 @@ Start backend of main:
 cd backend
 npm start
 ```
+
 
 
 
